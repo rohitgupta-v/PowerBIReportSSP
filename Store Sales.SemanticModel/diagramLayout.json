@@ -1,0 +1,86 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 243.90381056766591,
+            "y": 195.86663738971606
+          },
+          "nodeIndex": "Store",
+          "nodeLineageTag": "0862204f-8f7e-49e5-b8ef-9ec0e9d8569d",
+          "size": {
+            "height": 187,
+            "width": 254
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 530.90381056766591,
+            "y": 258
+          },
+          "nodeIndex": "Sales",
+          "nodeLineageTag": "d14a8b76-0b9b-4daf-9df5-064bdb47e7fa",
+          "size": {
+            "height": 386,
+            "width": 254
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 753.58872434856039,
+            "y": 685
+          },
+          "nodeIndex": "Item",
+          "nodeLineageTag": "d844056b-47d9-4457-97d3-84fe5d073025",
+          "size": {
+            "height": 187,
+            "width": 254
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 687.73817729210487,
+            "y": 0
+          },
+          "nodeIndex": "Time",
+          "size": {
+            "height": 187,
+            "width": 254
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 6.359726916761133
+          },
+          "nodeIndex": "District",
+          "nodeLineageTag": "636cd3a4-af99-4a62-bfc4-4a3d2eb162e1",
+          "size": {
+            "height": 187,
+            "width": 254
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
